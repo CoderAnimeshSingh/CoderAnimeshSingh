@@ -1,8 +1,9 @@
+<div align="center"> <img width="995px" src="https://quickops.pt/wp-content/uploads/2023/04/fullstack_developer.png"> </div>
+
 # 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
 ![Hello Coders](https://user-images.githubusercontent.com/80438705/194644393-1c2ec29d-e3c2-49ad-bc06-2d3911d86b4d.gif)
 
----
 <img align="right" width="210px" hight="300px" src="https://camo.githubusercontent.com/ca6a6e482bb26bb20f4eddbfbfa3f9cff04a29ef05ac76962204222e989c34ee/68747470733a2f2f647862636f64652e636f6d2f6173736574732f696d616765732f33393939382d7765622d646576656c6f706d656e742e676966" alt="Web Development GIF" />
 
 ## 🙋‍♂️ **About Me:**
