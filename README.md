@@ -124,3 +124,17 @@ I believe in **learning by building**, **teaching by sharing**, and **growing by
 ### 🤝 Open to collaboration, learning, and building impactful tech
 
 > *“Consistency beats talent when talent stops improving.”*
+
+---
+
+## 🎓 Final Semester Major Project Pack
+
+I have added a complete, ready-to-build major project kit here:
+
+- [`SmartSpend-AI/`](SmartSpend-AI/) — full-stack project + dissertation docs + viva prep.
+
+If you're preparing for a practical/dissertation assessment, this folder contains:
+- project source code,
+- report template,
+- presentation script,
+- viva Q&A.
